@@ -5,20 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Use Migrations to update columns in the DB
 
-* System dependencies
+* Display data in the view
 
-* Configuration
+* Utilize the form_for helper method
 
-* Database creation
+* Use resources in the routes file
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
